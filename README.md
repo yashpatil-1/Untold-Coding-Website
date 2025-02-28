@@ -1,6 +1,6 @@
 # 💻 Untol Coding Website
 
-![Untol Coding Website](https://your-image-link-here.com "Untol Coding Website Preview")
+![Untol Coding Website](https://github.com/yashpatil-1/Untold-Coding-Website/blob/main/image.png"Untol Coding Website Preview")
 
 ## 🚀 Introduction
 The **Untol Coding Website** is a sample service-based website where users can explore various services, count their selections, and contact us for inquiries. The website features interactive elements and a visually appealing UI to enhance the user experience.
