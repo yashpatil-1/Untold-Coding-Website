@@ -34,7 +34,15 @@ The website includes various interactive elements designed to create an engaging
 
 ## 📸 Screenshots
 *(Add relevant screenshots showcasing different sections of the website)*
-![FrontFace](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
 ## 🤝 Contributing
 Feel free to fork this repository, improve the website, and submit pull requests.
 
